@@ -1,0 +1,34 @@
+body{
+    background-image: url("../imagenes/oni.jpg");
+    background-size: cover;
+    height: 860px;
+    
+
+}
+@font-face{
+    font-family:'Bebas Neue', cursive;
+}
+
+article{
+    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+}
+article > div > section {
+
+    
+    font-size: x-large;
+    font-family:'Bebas Neue', cursive;
+
+}
+
+
+article > div > footer {
+
+    font-size: 18px;
+    font-family:'Bebas Neue', cursive;
+}
